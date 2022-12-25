@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BridgeGraphs">
+    <output-path>$PROJECT_DIR$/out/artifacts/BridgeGraphs</output-path>
+    <root id="archive" name="BridgeGraphs.jar">
+      <element id="module-output" name="BridgeGraphs" />
+    </root>
+  </artifact>
+</component>
